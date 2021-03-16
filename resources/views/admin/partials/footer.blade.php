@@ -1,0 +1,1 @@
+<footer class="footer">Todos los derecho reservados &copy; - {{ date('Y') }} - Bryant Luis Jimenez Reyes C.I. 27.240.127  </footer>

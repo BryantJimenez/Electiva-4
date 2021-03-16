@@ -1,0 +1,1 @@
+<footer class="footer">Todos los derecho reservados &copy; - Los Franceses <?php echo e(date('Y')); ?> </footer><?php /**PATH C:\xampp\htdocs\losFranceses\resources\views/admin/partials/footer.blade.php ENDPATH**/ ?>

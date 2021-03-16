@@ -1,0 +1,1 @@
+<footer class="footer">Todos los derecho reservados &copy; - ATLier <?php echo e(date('Y')); ?> </footer><?php /**PATH C:\xampp\htdocs\Sistema-Cucar\resources\views/admin/partials/footer.blade.php ENDPATH**/ ?>

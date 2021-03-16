@@ -1,0 +1,1 @@
+<footer class="footer">Todos los derecho reservados &copy; - <?php echo e(date('Y')); ?> - Bryant Luis Jimenez Reyes C.I. 27.240.127  </footer><?php /**PATH C:\xampp\htdocs\losFranceses - copia\resources\views/admin/partials/footer.blade.php ENDPATH**/ ?>
